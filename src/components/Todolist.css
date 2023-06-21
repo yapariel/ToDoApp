@@ -1,0 +1,17 @@
+.header {
+  padding: 4rem;
+  background-color: #00b4d8;
+  color: #fff;
+}
+
+.create {
+  border-radius: 10px;
+  border-style: hidden;
+  border-color: #fff;
+  color: #ffff;
+  background-color: #0077b6;
+  padding: 0.5rem;
+  font-size: medium;
+  font-weight: 800;
+  text-decoration: none;
+}
